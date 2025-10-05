@@ -1,4 +1,4 @@
-# 🕷️ Spider-Man DSA Coach (D-CODE)
+# 🕷️ Spider-Man DSA Coach
 
 ## Overview
 
